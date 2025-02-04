@@ -19,6 +19,7 @@ Prerequisites :
  
   • pip install python-docx comtypes
   • python convert_docx_pip install 
+  
 🛠 Troubleshooting
 
 ❌ Word Application Error
