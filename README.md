@@ -16,8 +16,9 @@ Prerequisites :
   Any latest Python version installed on your system.
 
  Commands for Pip modules installation:
- 
+>>> 
   • pip install python-docx comtypes
+  
   • python convert_docx_pip install 
   
 🛠 Troubleshooting
