@@ -35,4 +35,9 @@ If you get an ImportError, reinstall the dependencies:
 
 • pip install --upgrade python-docx comtypes
 
+
+✨ Happy Converting ✨
+
+
+
   
